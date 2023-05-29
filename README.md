@@ -28,5 +28,5 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/React-00BCF6?style=flat-square&logo=React&logoColor=white"></img> &nbsp 
  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/> &nbsp
  <img src="https://img.shields.io/badge/styled%2Dcomponents-DB7093?style=flat-square&logo=styled%2Dcomponents&logoColor=white"/></a>&nbsp
- <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=Redux&logoColor=white"/> 
+ <!-- <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=Redux&logoColor=white"/> -->
 </div> 
